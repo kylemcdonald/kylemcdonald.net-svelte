@@ -29,7 +29,7 @@
 		{#each works as work, i (work)}
 			<div class="cell project">
                 {#if i == 0}
-                    <h2>Projects</h2>
+                    <h2>Selected Work</h2>
                 {/if}
 				<a href={work.links[0].url} name={work.name} target="_blank">
 					<img src={`/thumbs/${work.image}`} alt={work.name} />
