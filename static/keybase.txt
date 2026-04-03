@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/kylemcdonald
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://kylemcdonald.net
+  * I am kylemcdonald (https://keybase.io/kylemcdonald) on keybase.
+  * I have a public key with fingerprint AAD2 D2E7 28AF 5533 86B6  3209 8F40 5F0E D0DE 80FF
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012062dd6dceb30613979125c97f60c506e3c8a4726f1f093862b93d50d7152a99330a",
+      "fingerprint": "aad2d2e728af553386b632098f405f0ed0de80ff",
+      "host": "keybase.io",
+      "key_id": "8f405f0ed0de80ff",
+      "kid": "0101011f30251e2d44a5f9aa3dc30b11d66289772f567214fc384a4c172325db39940a",
+      "uid": "ccc4e28d2ddc1bc9c86d88a85193a500",
+      "username": "kylemcdonald"
+    },
+    "service": {
+      "hostname": "kylemcdonald.net",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1573779852,
+  "expire_in": 157680000,
+  "prev": "fbe0715f7952ff164a5765c1c044a384bf0c2fb97c4a05e1254a4fc3da40eca1",
+  "seqno": 27,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.3
+Comment: https://keybase.io/crypto
+
+yMNzAnicbVJ7UFRVHN4Nl6H1gUzkWmjUHcMaQc5934uuAyPgOGq5SpgIrefeey5c
+HneX3eWxMTSIzRiKKVBigiwzTU7kODwakoFGQ4jk4YMtCmOAgaYkTBsLMwqke5n8
+z3P+OHN+5/u+8/2+c7qXBxjMxhOx9hU3x0oWjP2d9XmGtGuz5UWY4JC8WEwRloUW
+F5QtIbfHnqVIWAwGcAIwhCQxkogEEjA4ybM8TtAiz8oMEGnAIFLkIMUSjIzLgCc5
+hhB4UqKBxOI0AXmeJAHEIjFZUdORy+lSVI8mC6FESARiCQ7KNE1qLIEhCcBzMgVo
+GSAJSIgDsqwRMxxunaGZE6AbbVQcWk3b2BftPQH/2Lc+cZkEBI0jQqIoSMs8hKQk
+kkDAcYlhCI5nWUKmGZbAKVkkOQpSIs4SJEFLAsnz1KLvvEU5URQpRHCaaUnEBZEX
+OUbiOMjROE9CGgAd6EYuFeYg3as3G+WIkkOF2RJWHIlpJ/mKiPRw9W6egNqoIo+m
+4XQ5PA7Rka2dZng8TneMzvZ4nTq8AAn2/4XsgqJKWp4aIx+53IpDxWJwDSl6FF0Z
+p1mSZXmOJiIxVOhUXMiuqItlhgPa0O9B+ZqkLCCgvZLM8jQhyzijZcQytIiLQItL
+y0OQgUjIAs+KFAQ00p5di0hLSoIUQCLEMb21XNWBxRCs5hOma5puJV2FnjwXwoqv
+dKYuMRjNhkDTU/pHM5ifXvn4+70/F7yw53Iy1pAUkNxQXRnljD7jex76SpQtUWVt
+NwYbEoYaD1gSLJ8zpoPhvns/zm86sj8I/bSzsuvgm5kbMk/1/Tk5mtg4UX+Bqfqu
+OyNr656yNWtfic4tf8mWcDrj7nlT1fL2jrLnXm9L8YrnihNb2nacCX80P7LhxdSe
+yZDYe3/br9icPx++MLZ2ZXbo2PrVu+8sA5/0DX+b6119smU2Imd7+7C/uenog4JP
+1xVti56LT7qb8NFnW4uH4K4uV2ZdyxAIlS3Jl4MvPnxmu8/Sm1w6swQd+vVl84Iv
+8ZfikN7qXquHLrw1NfiC2bjUZY+PwGatX9aa+99gB+Ms8dfLFqZvvTZ1ymbZPzHf
+P/nhyeP2Vd/nbuqz7RxrGfZOq2kLPSOXBqxJ+/aOu8tq/YaEvJGSvxTTvq7NUbFW
+423bB/WpS29uPXsgbPfIzMDEo72hNZaIYH/R1LqOilYupzPKPBT++/SA3ea2MsZV
+xxw93sCr8BvfltKv0q65C06EOKmwdD/RHNtvCizd1XXnLXd8+8zcZtcD0zjVlFgS
+V9hnHb0Pwj6mu8tN972Bl1LG6696Wl81/1swuoPaVtP6XsfUdRk2Rb0bWUGm1B3q
+XxNaW1n6Q3DYPxVfGJa1Ha56O27qtOV24GB0y43zQWd9Wf4/mn9TvzaGVr9Tt/5I
+wIqgo/7G9IdUzbmLxzKeDfoPHurDDg==
+=6RkQ
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kylemcdonald
+
+==================================================================

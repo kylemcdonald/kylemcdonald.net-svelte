@@ -1,0 +1,47 @@
+name: Deploy Site
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+concurrency:
+  group: kylemcdonald-net-production
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    env:
+      DEPLOY_HOST: ssh.kylemcdonald.net
+      DEPLOY_PATH: /home/kylemcdonald/kylemcdonald.net
+      DEPLOY_USER: kylemcdonald
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build site
+        run: npm run build
+
+      - name: Configure SSH
+        env:
+          DEPLOY_SSH_KEY: ${{ secrets.DEPLOY_SSH_KEY }}
+        run: |
+          mkdir -p ~/.ssh
+          printf '%s\n' "$DEPLOY_SSH_KEY" > ~/.ssh/id_ed25519
+          chmod 600 ~/.ssh/id_ed25519
+          ssh-keyscan -H "$DEPLOY_HOST" >> ~/.ssh/known_hosts
+
+      - name: Deploy static files
+        run: |
+          RSYNC_RSH="ssh -i ~/.ssh/id_ed25519 -o StrictHostKeyChecking=yes" \
+            rsync -avz --delete-delay --exclude-from=deploy/rsync-excludes.txt \
+            build/ "$DEPLOY_USER@$DEPLOY_HOST:$DEPLOY_PATH/"

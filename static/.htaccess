@@ -1,0 +1,20 @@
+# Managed by kylemcdonald.net-svelte.
+# Deploy this file with the static site; do not edit it only on the server.
+
+RedirectMatch 301 ^/imessage-visualizer/?$ https://github.com/kylemcdonald/imessage-visualizer
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+
+# Keep certificate and verification endpoints reachable.
+RewriteRule ^\.well-known/ - [L]
+
+# Hide dotfiles and VCS metadata anywhere in the web root.
+RewriteRule (^|/)\. - [F,L]
+
+# Block server-side leftovers that should not be public.
+RewriteRule ^backup(?:/.*)?$ - [F,L]
+RewriteRule ^backup\.zip$ - [F,L]
+RewriteRule ^testing(?:/.*)?$ - [F,L]
+RewriteRule ^extract\.py$ - [F,L]
+</IfModule>
