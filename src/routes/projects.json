@@ -1,5 +1,25 @@
 [
   {
+    "key": "myepstein",
+    "name": "MyEpstein",
+    "year": 2026,
+    "description": "An app and browser extension for checking whether people in your world appear in the publicly released Epstein email archive. Contact matching happens privately on-device, making it possible to inspect names, dates, participants, and metadata in a public record that is otherwise difficult to navigate.",
+    "links": [
+      {
+        "text": "site",
+        "url": "https://myepstein.com/"
+      },
+      {
+        "text": "TestFlight",
+        "url": "https://testflight.apple.com/join/wf9sPB3v"
+      },
+      {
+        "text": "Chrome extension",
+        "url": "https://chromewebstore.google.com/detail/myepstein-for-linkedin/pclhceapadfoingbbkmimgmnmddmaajk"
+      }
+    ]
+  },
+  {
     "key": "transformirror",
     "name": "Transformirror",
     "year": 2023,
