@@ -10,14 +10,10 @@
 <main>
 	<h1>Kyle McDonald</h1>
 
-	<div>
-		<a href="https://twitter.com/kcimc" class="contact" style="float:left"
-			>@kcimc</a
-		>
-		<a href="mailto:{email}" class="contact" style="float:right">{email}</a>
+	<div class="contacts">
+		<a href="https://twitter.com/kcimc" class="contact contact-social">@kcimc</a>
+		<a href="mailto:{email}" class="contact contact-email">{email}</a>
 	</div>
-
-	<br style="clear:both" />
 
 	<div class="section">
 		<div class="cell project">
