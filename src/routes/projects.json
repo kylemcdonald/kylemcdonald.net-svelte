@@ -1,5 +1,21 @@
 [
   {
+    "key": "local-loquat",
+    "name": "Local Loquat",
+    "year": 2026,
+    "description": "A series of small-batch loquat jams, each jar harvested from a single tree and collected from different sites around Los Angeles. The project uses a fleeting urban fruit harvest to reconnect people with the local ecologies that still persist inside the city.",
+    "links": [
+      {
+        "text": "instagram",
+        "url": "https://www.instagram.com/p/DXNo77VmrrG/"
+      },
+      {
+        "text": "all for nothing",
+        "url": "https://www.instagram.com/__all__for__nothing__/"
+      }
+    ]
+  },
+  {
     "key": "myepstein",
     "name": "MyEpstein",
     "year": 2026,
