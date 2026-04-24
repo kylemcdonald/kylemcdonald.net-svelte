@@ -11,8 +11,36 @@
 	<h1>Kyle McDonald</h1>
 
 	<div class="contacts">
-		<a href="https://twitter.com/kcimc" class="contact contact-social">@kcimc</a>
 		<a href="mailto:{email}" class="contact contact-email">{email}</a>
+		<div class="contact-right">
+			<a
+				href="https://cf259312.sibforms.com/serve/MUIFAKw5IHoe6UZyqMFlRjjCL1xxVulB-MSI28Y8s1h2Cep5OA24FHHkWhOu6pATgP97B-fdM-kCQoIFzGVgvn-DjKtvGXyL6qnIel8X0wz7ODLEtNOTncE0YgvFG6ssUIEoJOkfSQDbK5yP9aFw8NKsiOo-xFhqzdNnynMp8DpBGM8xByg5Xt2T78RD7VWa623G24QFIMJaTaZG-w=="
+				class="contact contact-newsletter"
+				>newsletter
+				<svg viewBox="0 0 24 24" aria-hidden="true">
+					<rect x="3" y="5" width="18" height="14" rx="2" ry="2"></rect>
+					<path d="M4 7l8 6 8-6"></path>
+				</svg></a
+			>
+			<a href="https://twitter.com/kcimc" class="contact-icon" aria-label="X" title="X">
+				<svg viewBox="0 0 24 24" aria-hidden="true">
+					<path d="M4 4l16 16"></path>
+					<path d="M20 4L4 20"></path>
+				</svg>
+			</a>
+			<a
+				href="https://instagram.com/kcimc"
+				class="contact-icon"
+				aria-label="Instagram"
+				title="Instagram"
+			>
+				<svg viewBox="0 0 24 24" aria-hidden="true">
+					<rect x="3" y="3" width="18" height="18" rx="5" ry="5"></rect>
+					<circle cx="12" cy="12" r="4"></circle>
+					<circle cx="17.5" cy="6.5" r="1"></circle>
+				</svg>
+			</a>
+		</div>
 	</div>
 
 	<div class="section">
