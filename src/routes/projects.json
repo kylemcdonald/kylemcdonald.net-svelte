@@ -1,5 +1,21 @@
 [
   {
+    "key": "ews",
+    "name": "Apocalypse Early Warning System",
+    "year": 2026,
+    "description": "A real-time dashboard that watches private jets as an early warning signal for an imminent nuclear apocalypse. By comparing public ADS-B data against recent traffic patterns, it turns elite escape into a noisy measurement system.",
+    "links": [
+      {
+        "text": "site",
+        "url": "https://ews.kylemcdonald.net/"
+      },
+      {
+        "text": "code",
+        "url": "https://github.com/kylemcdonald/ews"
+      }
+    ]
+  },
+  {
     "key": "local-loquat",
     "name": "Local Loquat",
     "year": 2026,
