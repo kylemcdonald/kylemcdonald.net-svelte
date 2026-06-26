@@ -1,5 +1,35 @@
 [
   {
+    "key": "binary-stacks",
+    "name": "Binary Stacks",
+    "year": 2026,
+    "description": "A collaboration with Glitchwear translating the 2008 Binary Stacks generative system into knit shirts and sweaters. Each garment turns one pixel into one stitch, with one of 1024 designs selected randomly on load and its seed printed near the collar.",
+    "links": [
+      {
+        "text": "site",
+        "url": "https://create.glitchwear.store/kyle"
+      },
+      {
+        "text": "photos",
+        "url": "https://www.flickr.com/photos/kylemcdonald/albums/72157606736038755/"
+      },
+      {
+        "text": "instagram",
+        "url": "https://www.instagram.com/p/DaB0-5KGcu2/"
+      },
+      {
+        "text": "twitter",
+        "url": "https://x.com/kcimc/status/2070307863738896565"
+      }
+    ],
+    "collaborators": [
+      {
+        "name": "Glitchwear",
+        "url": "https://glitchwear.store/"
+      }
+    ]
+  },
+  {
     "key": "ews",
     "name": "Apocalypse Early Warning System",
     "year": 2026,
