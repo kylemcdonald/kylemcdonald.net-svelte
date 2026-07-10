@@ -2,6 +2,7 @@
 # Deploy this file with the static site; do not edit it only on the server.
 
 RedirectMatch 301 ^/imessage-visualizer/?$ https://github.com/kylemcdonald/imessage-visualizer
+RedirectMatch 302 ^/newsletter/?$ https://cf259312.sibforms.com/serve/MUIFAKw5IHoe6UZyqMFlRjjCL1xxVulB-MSI28Y8s1h2Cep5OA24FHHkWhOu6pATgP97B-fdM-kCQoIFzGVgvn-DjKtvGXyL6qnIel8X0wz7ODLEtNOTncE0YgvFG6ssUIEoJOkfSQDbK5yP9aFw8NKsiOo-xFhqzdNnynMp8DpBGM8xByg5Xt2T78RD7VWa623G24QFIMJaTaZG-w==
 
 <IfModule mod_rewrite.c>
 RewriteEngine On
