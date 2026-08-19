@@ -12,7 +12,7 @@ In 2016 I filed a Freedom of Information Act (FOIA) request to learn more about 
 <iframe src="https://drive.google.com/file/d/18Jkk-ZXtGxDfah8WleP4HWY3kSJWCFg6/preview" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen>></iframe>
 </div>
 
-* The FOIA response by the Secret Service, available via [Google Drive](https://drive.google.com/file/d/1YkN5gZ_Ji2Bf69EjSgNVyHOvQHn_qKG8/view?usp=sharing).
+- The FOIA response by the Secret Service, available via [Google Drive](https://drive.google.com/file/d/1YkN5gZ_Ji2Bf69EjSgNVyHOvQHn_qKG8/view?usp=sharing).
 
 Reading this story again ten years later, I see a lot that has changed in me.
 
@@ -28,7 +28,7 @@ I'm not sure I would make this piece today, anyway. I'm increasingly critical of
 
 Ten years later, what survives? I think my drive to create challenging and unsettling art remains. I still love to approach dystopian complexity with hopeful and idealistic simplicity. Not to revel in naivete alone, but to set up a confrontation in order to examine incongruities. Most importantly, most of my relationships have survived: many people showed support while my future was uncertain, and I'm still grateful to be part of such an amazing community.
 
-*This story was first published by Wired in 2012, [When Art, Apple and the Secret Service Collide: 'People Staring at Computers'](https://www.wired.com/2012/07/people-staring-at-computers/). In my original text I wrote that the Secret Service "borrowed" my equipment. Wired insisted I edit it to "seized". Here, I have left it unedited.*
+_This story was first published by Wired in 2012, [When Art, Apple and the Secret Service Collide: 'People Staring at Computers'](https://www.wired.com/2012/07/people-staring-at-computers/). In my original text I wrote that the Secret Service "borrowed" my equipment. Wired insisted I edit it to "seized". Here, I have left it unedited._
 
 ### [Kyle McDonald](http://kylemcdonald.net/) June 7, 2021
 
@@ -36,7 +36,7 @@ Ten years later, what survives? I think my drive to create challenging and unset
 
 ![Steve Jobs, staring at the first version of Photo Booth. All watercolors courtesy of David Pierce](large/steve.jpg)
 
-* Steve Jobs, staring at the [first version of Photo Booth](https://www.facebook.com/photo.php?fbid=10150344003694357&set=a.10150344003354357.371772.500729356&type=3&l=c6edf34df0&theater). All watercolors courtesy of [David Pierce](http://davidpierce.org/).
+- Steve Jobs, staring at the [first version of Photo Booth](https://www.facebook.com/photo.php?fbid=10150344003694357&set=a.10150344003354357.371772.500729356&type=3&l=c6edf34df0&theater). All watercolors courtesy of [David Pierce](http://davidpierce.org/).
 
 ## I really wasn't expecting the Secret Service.
 
@@ -114,7 +114,7 @@ I thought about how I used to sit in cafes drawing people in my sketchbook. I th
 
 I didn't want to break the law. I was prepared to make people a little uncomfortable, but I didn't want to do anything illegal. That ruled out using private computers. I tried to think of a busy public space full of computers, and the Apple Store seemed so obvious. I read "[The Photographer's Right](www.krages.com/ThePhotographersRight.pdf)" to make sure it was ok to take the photos:
 
-> In most places, you may reasonably assume that taking photographs is allowed and that you do not need explicit permission. However, this is a judgment call and you should request permission when the circumstances suggest that the owner is likely to object. In any case,  when a property owner tells you not to take photographs while on the premises, you are legally obligated to honor the request.
+> In most places, you may reasonably assume that taking photographs is allowed and that you do not need explicit permission. However, this is a judgment call and you should request permission when the circumstances suggest that the owner is likely to object. In any case, when a property owner tells you not to take photographs while on the premises, you are legally obligated to honor the request.
 
 > Members of the public have a very limited scope of privacy rights when they are in public places. Basically, anyone can be photographed without their consent except when they have secluded themselves in places where they have a reasonable expectation of privacy such as dressing rooms, restrooms, medical facilities, and inside their homes.
 
@@ -232,7 +232,7 @@ I was trying to understand their logic. "But, all my roommates have computers to
 
 "Um, no sir."
 
-"Have you plugged in any external drives recently?" I explained I was just at [Eyeo Festival](http://eyeofestival.com/)  where I copied some open source software to USB sticks for hundreds of people. By now those sticks and copies were spread across the world, but this had nothing to do with the project they were investigating. They weren't sure what to say.
+"Have you plugged in any external drives recently?" I explained I was just at [Eyeo Festival](http://eyeofestival.com/) where I copied some open source software to USB sticks for hundreds of people. By now those sticks and copies were spread across the world, but this had nothing to do with the project they were investigating. They weren't sure what to say.
 
 "Are there passwords on these machines?"
 
@@ -240,7 +240,7 @@ When I was working on keytweeter, passwords were my personal boundary for "priva
 
 "If we find something protected that we need access to, we'll have to come back."
 
-Later I learned that there are different kinds of warrants for retrieving hardware versus getting access to secure information, or even accessing email. But I didn't know this yet. "There's no password on the Mac. It should automatically log you in to anything you need access to."  It was kind of ambiguous if I had just given them the right to access my email. "There is a password on the PC. But again, there's nothing there." They offered me a piece of lined yellow paper they had been using, and I wrote down the password. "I can give you the location of the source code, too." I normally post my source online, but decided not to this time. The app was less than a hundred lines of code, but I didn't want to make it any easier for people who had less than benign intentions.
+Later I learned that there are different kinds of warrants for retrieving hardware versus getting access to secure information, or even accessing email. But I didn't know this yet. "There's no password on the Mac. It should automatically log you in to anything you need access to." It was kind of ambiguous if I had just given them the right to access my email. "There is a password on the PC. But again, there's nothing there." They offered me a piece of lined yellow paper they had been using, and I wrote down the password. "I can give you the location of the source code, too." I normally post my source online, but decided not to this time. The app was less than a hundred lines of code, but I didn't want to make it any easier for people who had less than benign intentions.
 
 In the end, they borrowed five things: two computers, the iPod, a small flash stick, and the memory card from my camera. They were all sitting in envelopes, stacked neatly in a cardboard box.
 
@@ -268,15 +268,15 @@ In the end, they borrowed five things: two computers, the iPod, a small flash st
 
 I posted a message to Twitter using my girlfriend's computer immediately after the Secret Service left. When people send you an email, there is an expectation of privacy. Every conversation belongs to all the parties involved. I also removed myself from F.A.T. mailing list to protect other people on the list. I got a couple funny emails after that. One read:
 
-> __Subject:__ Hello Secret Service People
+> **Subject:** Hello Secret Service People
 
-> __Body:__ You're not very nice.
+> **Body:** You're not very nice.
 
 I was in a weird state of shock. I apologized to my roommates. The whole morning was emotionally overwhelming, and I had to figure out a way to cope. I decided to focus on my other work to get my mind off what just happened. I had posted a new project the night before called [FaceOSC](http://vimeo.com/26098366), but I hadn't announced the video yet. Four minutes after tweeting about the secret service, I posted a link to the FaceOSC video.
 
 Twenty minutes later, I got an email from the Mashable reporter. She was responding to an email I sent the night before, where I shared some more context for the project. I gave her some updates on the visit, and her editor got hyperbolic with the title, "[EXCLUSIVE: Apple Store Sets Secret Service on Spy Camera Artist](http://mashable.com/2011/07/07/secret-service-apple-store-art-2/)".
 
-I responded to emails about the project for a few hours, but I quickly realized I needed to get advice in a more official capacity. So I sent an email to the [Electronic Frontier Foundation](https://www.eff.org/)  (EFF) explaining what happened, and asking for their help.
+I responded to emails about the project for a few hours, but I quickly realized I needed to get advice in a more official capacity. So I sent an email to the [Electronic Frontier Foundation](https://www.eff.org/) (EFF) explaining what happened, and asking for their help.
 
 I was working off my girlfriend's old Thinkpad, but if it was going to be months until I got my computer back, I would need to buy a decent replacement. I decided to go to the Apple Store and see what was in stock. Sitting on a couch answering emails was not a good way to burn off adrenaline.
 
@@ -294,13 +294,13 @@ Hundreds and hundreds of comments, on dozens of major blogs. I'm no stranger to 
 
 Online, some comments were favorable, especially the ones posted the day before the visit. They dealt with the issues I was originally trying to tackle:
 
-* Interesting how he was able to capture a truly expressionless face. It made me think about how too much computer time may make us retract from social interactions. Weird .
+- Interesting how he was able to capture a truly expressionless face. It made me think about how too much computer time may make us retract from social interactions. Weird .
 
-* Facial expressions are partially reflexive but partially social. It's not a surprise that expressions get bland when there is no one around to non-verbally communicate with.
+- Facial expressions are partially reflexive but partially social. It's not a surprise that expressions get bland when there is no one around to non-verbally communicate with.
 
-* We ARE social animals and we can only guess at the long term effect of computers on our species.
+- We ARE social animals and we can only guess at the long term effect of computers on our species.
 
-* I like the idea of "how does a computer sees you" any Asimov reader would daydream after such sentence
+- I like the idea of "how does a computer sees you" any Asimov reader would daydream after such sentence
 
 And because it's the internet, there were the inevitable flames against me:
 
@@ -316,7 +316,7 @@ Against the Secret Service:
 
 And at least one guy hated everyone:
 
-> There's no fucking winner here, no one deserving of support &mdash; Apple is Apple, the Secret Service is what it is, and the guy who calls what he's doing "art" is a pretentious little fuck who didn't get paid enough attention as a child. 
+> There's no fucking winner here, no one deserving of support &mdash; Apple is Apple, the Secret Service is what it is, and the guy who calls what he's doing "art" is a pretentious little fuck who didn't get paid enough attention as a child.
 
 My mom had some vaguely kinder words about this last one.
 
@@ -328,11 +328,11 @@ The moment this deeper conversation began, the project turned into a collaborati
 
 The "serious" articles all used "artist" in scare quotes. Some had a firm conviction that any mention of the word "art" was misplaced:
 
-* That isn't art. This is what a bored kid does on the weekends.
+- That isn't art. This is what a bored kid does on the weekends.
 
-* I fucking hate what some people claim is "art". This prank was an invasion of privacy, and a bit of a dick move, to be honest.
+- I fucking hate what some people claim is "art". This prank was an invasion of privacy, and a bit of a dick move, to be honest.
 
-* Kyle is one of those egocentric artists who speaks in such nonsense phrases as "auditory implications of sound representation", "the generative mutability of writing", "creating strong visual patterns and playful juxtapositions", "democratizing realtime 3D scanning", etc. All quotes taken from his main page, and all to make his so-called work sound more important than it really is.
+- Kyle is one of those egocentric artists who speaks in such nonsense phrases as "auditory implications of sound representation", "the generative mutability of writing", "creating strong visual patterns and playful juxtapositions", "democratizing realtime 3D scanning", etc. All quotes taken from his main page, and all to make his so-called work sound more important than it really is.
 
 While others thought calling it "art" was spot on:
 
@@ -340,7 +340,7 @@ While others thought calling it "art" was spot on:
 
 If it was illegal, does it being "art" mean you have to treat it differently?
 
-> [...] there's people like these, who do stupid things  _in the name of art_, as if that alone transforms stupidity into something different and important. And if they get hurt, instead of taking responsibility, they run crying to the EFF, media, or whoever else will listen. "I'm a persecuted artist, society is so closed-minded, oppressive, and unfair, boo-hoo!"
+> [...] there's people like these, who do stupid things _in the name of art_, as if that alone transforms stupidity into something different and important. And if they get hurt, instead of taking responsibility, they run crying to the EFF, media, or whoever else will listen. "I'm a persecuted artist, society is so closed-minded, oppressive, and unfair, boo-hoo!"
 
 Other people thought the risk might have been worth it, in any other situation:
 
@@ -348,27 +348,27 @@ Other people thought the risk might have been worth it, in any other situation:
 
 A few people thought you have to be an artist to understand what art is:
 
-* [...] I don't even get how this is art, it's just BS word soup to justify ill-conceived ideas, and I'm an artist, so it's not like I'm reactive simply because I don't understand art.
+- [...] I don't even get how this is art, it's just BS word soup to justify ill-conceived ideas, and I'm an artist, so it's not like I'm reactive simply because I don't understand art.
 
-* let me take a wild guess, ur not an artist. "Doing what he did in the name of "art" is so wrong" this is exactly what art is about. art has always been about either asserting or questioning/challenging preconceived perceptions.
+- let me take a wild guess, ur not an artist. "Doing what he did in the name of "art" is so wrong" this is exactly what art is about. art has always been about either asserting or questioning/challenging preconceived perceptions.
 
 These weren't one-off comments after half-reading an article. They were nested in threads, sometimes ten levels deep. There was real discussion happening. There were interesting questions, and I wanted to jump in. Especially the discussion surrounding privacy and surveillance:
 
-* I think it sets a dangerous precedent if this type of thing is allowed and has no legal consequences. I don't want images of me posted anywhere without my permission.
+- I think it sets a dangerous precedent if this type of thing is allowed and has no legal consequences. I don't want images of me posted anywhere without my permission.
 
-* Privacy is being stolen. Don't stand for it!
+- Privacy is being stolen. Don't stand for it!
 
-* Is this really a breach of privacy? They're on public computers in a retailer.
+- Is this really a breach of privacy? They're on public computers in a retailer.
 
-* What is with all this expectation of privacy... Out in public there is no privacy, why is this such a hard concept to understand...
+- What is with all this expectation of privacy... Out in public there is no privacy, why is this such a hard concept to understand...
 
 But what was the difference between me and the government, or me and the Apple Store security?
 
-* The feds argue all the time that they can watch people in public or even follow them with no warrant because they have no expectation of privacy. This is no different.
+- The feds argue all the time that they can watch people in public or even follow them with no warrant because they have no expectation of privacy. This is no different.
 
-* The security cameras in the store were already recording the customers' faces for private use.
+- The security cameras in the store were already recording the customers' faces for private use.
 
-* simple, the government hates competition, and they spy on you all day, so they must take out the poor guy who is just imitating them
+- simple, the government hates competition, and they spy on you all day, so they must take out the poor guy who is just imitating them
 
 Joshua Noble wrote an [excellent analysis](http://thefactoryfactory.com/wordpress/?p=831) discussing the difference between me and Apple.
 
@@ -378,9 +378,9 @@ Joshua Noble wrote an [excellent analysis](http://thefactoryfactory.com/wordpres
 
 Maybe it wasn't about who is recording the data. Maybe it's the content of the images that made a difference, or where they were posted, or who was profiting:
 
-* How would the crime be different if the "artist" had posted the pictures publicly or kept the pictures strictly for personal use? How would the crime be different if the "artist" had accidentally captured sensitive information?
+- How would the crime be different if the "artist" had posted the pictures publicly or kept the pictures strictly for personal use? How would the crime be different if the "artist" had accidentally captured sensitive information?
 
-* Why should I let a brand take pictures of me for detecting "patterns" useful for marketing purposes, and not by individuals clearly having no _profit_ in mind?
+- Why should I let a brand take pictures of me for detecting "patterns" useful for marketing purposes, and not by individuals clearly having no _profit_ in mind?
 
 This deeper conversation was incredible, but the intermittent flames made it hard for me to follow along without feeling like a terrible person.
 
@@ -416,7 +416,7 @@ The email from Apple read:
 
 > Those violations of the CFAA give rise to a civil cause of action by Apple, and the display of the images and video is causing ongoing harm to Apple. There is also a criminal investigation related to those violations of the CFAA. Furthermore, the images and video may violate the privacy/publicity rights of the individuals pictured therein, including but not limited to Apple employees.
 
-> Apple requests that you remove the images and video from public view immediately, and that you preserve all evidence regarding the source, content, and posting of those images and video. 
+> Apple requests that you remove the images and video from public view immediately, and that you preserve all evidence regarding the source, content, and posting of those images and video.
 
 A similar takedown request was sent to F.A.T. and Vimeo. Tumblr and Vimeo removed the content immediately, and later that day F.A.T. Lab fellow Evan Roth (after I requested the images be removed) responded by censoring every photo with a [cut-and-paste image of Steve Jobs' face](http://fffff.at/people-staring-at-computers/).
 
@@ -446,7 +446,7 @@ On August 24th I had my last contact with the Secret Service. The agent I spent 
 
 Apparently, even when it was all said and done, the Secret Service was still frustrated with me. An attorney from Lefcourt visited their offices to retrieve the equipment, and said they're still of the opinion that there was a "lack of justice served". But the attorney also told me not to worry too much. It's their job to investigate, not to have opinions. When someone tells them something is wrong, they'll look for the evidence that it's wrong. If they don't find what they're looking for, it's just frustrating. I can imagine if you spend most of your day fighting counterfeiters and credit card fraudsters, it can be hard to deal with an artist who isn't so clearly breaking the law.
 
-Since I was still out of the country, my girlfriend offered to pick up the hardware from Lefcourt. She had been hugely supportive throughout the project, but now that it was over she revealed, half-jokingly: "You only get two more visits from the Secret Service before I break up with you." 
+Since I was still out of the country, my girlfriend offered to pick up the hardware from Lefcourt. She had been hugely supportive throughout the project, but now that it was over she revealed, half-jokingly: "You only get two more visits from the Secret Service before I break up with you."
 
 ![Hardware returned by the Secret Service.](large/returned-hardware.jpg)
 
@@ -494,7 +494,7 @@ But the book also requires a mutual understanding between the artist and the spe
 
 > The sympathetic communion of minds necessary for art appreciation must be based on mutual concession. The spectator must cultivate the proper attitude for receiving the message, as the artist must know how to impart it.
 
-And the success of "People Staring at Computers" is based on condemnation  rather than mutual concession. In a way, inviting condemnation can be the most effective way of imparting a message.
+And the success of "People Staring at Computers" is based on condemnation rather than mutual concession. In a way, inviting condemnation can be the most effective way of imparting a message.
 
 I think Duchamp understood the possibilities of condemnation as an alternative to mutual concession. He addresses this in his short essay, "[The Creative Act](http://www.iaaa.nl/cursusAA&AI/duchamp.html)". He says once an artist gives their work to the spectator, it's up to the spectator to make a decision about that work.
 

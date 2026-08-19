@@ -48,14 +48,14 @@
 			<h2>Biography</h2>
 			<div id="bio">
 				<h3>Kyle McDonald</h3>
-				is an artist working with code. He crafts interactive installations, sneaky interventions,
-				playful websites, workshops, and<a href="http://github.com/kylemcdonald/">toolkits</a> for
-				other artists working with code. Exploring possibilities of new technologies: to understand
-				how they affect society, to misuse them, and build alternative futures; aiming to share a
-				laugh, spark curiosity, create confusion, and share spaces with magical vibes. Working with
-				machine learning, computer vision, social and surveillance tech spanning commercial and arts
-				spaces. Previously adjunct professor at NYU's <a href="http://itp.nyu.edu">ITP</a>, member
-				of <a href="http://fffff.at">F.A.T. Lab</a>, community manager for
+				is an artist working with code. He crafts interactive installations, sneaky interventions, playful
+				websites, workshops, and<a href="http://github.com/kylemcdonald/">toolkits</a> for other
+				artists working with code. Exploring possibilities of new technologies: to understand how
+				they affect society, to misuse them, and build alternative futures; aiming to share a laugh,
+				spark curiosity, create confusion, and share spaces with magical vibes. Working with machine
+				learning, computer vision, social and surveillance tech spanning commercial and arts spaces.
+				Previously adjunct professor at NYU's <a href="http://itp.nyu.edu">ITP</a>, member of
+				<a href="http://fffff.at">F.A.T. Lab</a>, community manager for
 				<a href="http://openframeworks.cc">openFrameworks</a>, and artist in residence at
 				<a href="http://studioforcreativeinquiry.org/">STUDIO for Creative Inquiry</a>
 				at CMU, and <a href="http://ycam.jp">YCAM</a> in Japan. Work commissioned and shown around
@@ -95,6 +95,7 @@
 							{/if}
 						</em>
 					</h3>
+					<!-- eslint-disable-next-line svelte/no-at-html-tags -- descriptions are trusted project data -->
 					{@html work.description}
 				</div>
 				<ul>
