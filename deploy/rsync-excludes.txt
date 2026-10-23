@@ -1,4 +1,5 @@
 .dh-diag
+.htaccess.bak-*
 .git/
 .well-known/
 applestore/

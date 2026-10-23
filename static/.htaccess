@@ -1,3 +1,9 @@
+# BEGIN php-disabled 2026-10-22 (PHP2Shell CVE-2026-109618/109619)
+<FilesMatch "\.(php[0-9]?|pht|phtml|phar)$">
+  Require all denied
+</FilesMatch>
+# END php-disabled
+
 # Managed by kylemcdonald.net-svelte.
 # Deploy this file with the static site; do not edit it only on the server.
 
